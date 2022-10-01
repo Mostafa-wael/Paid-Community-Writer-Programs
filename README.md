@@ -1,5 +1,9 @@
 # Paid Community Writer Programs
-In this list we will cover a curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
+In this list we will cover a curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content. 
+This indents to be a detailed list and encourages people to contribute to it and share their experience. 
+>> - If you have a program that you would like to add, please read the [contribution guidelines](CONTRIBUTING.md) and submit a pull request.
+>> - If you have any previous experience with any of these programs, please let us know in the discussions.
+>> - If you manged to start writing for any of these programs, please let us know in the discussions and don't hesitate to update/add more details in the program's README files.
 ### [Adeva](https://adevait.com/write-for-us?utm_source=referral&utm_medium=aggregator&utm_campaign=whopaystechnicalwriters.com)
 - **Payment** for first-time authors: **$200** 
 - **Topics**: Infrastructure, SWE, soft skills, and more
@@ -54,12 +58,10 @@ In this list we will cover a curated collection of active publishers, publicatio
 ### [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author/?utm_source=referral&utm_medium=aggregator&utm_campaign=whopaystechnicalwriters.com#utm_source%3Dreferral%26utm_medium%3Daggregator%26utm_campaign%3Dwhopaystechnicalwriters.com)
 - **Payment** for first-time authors: **$350**
 - **Topics**: React, Redux, Node.js, Wasm, GraphQL, Rust, Flutter, Frontend development best practices and Product/UI/UX design.
-- **About**: Depending on the scope and quality of each post, we’ll offer up to **$350**.
 - [More Details](Programs/LogRocket/README.md)
 ### [Okteto](https://www.okteto.com/tech-writer/?utm_source=referral&utm_medium=aggregator&utm_campaign=whopaystechnicalwriters.com)
 - **Payment** for first-time authors: **$200** 
 - **Topics**: K8s, Okteto.
-- **About**: We require accepted authors to submit a draft with a word count of 1200 words and above.
 - [More Details](Programs/Okteto/README.md)
 ### [Paperspace](https://blog.paperspace.com/write-for-paperspace/?utm_source=referral&utm_medium=aggregator&utm_campaign=whopaystechnicalwriters.com)
 - **Payment** for first-time authors: **$200 - $300**

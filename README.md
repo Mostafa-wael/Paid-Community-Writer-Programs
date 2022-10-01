@@ -87,8 +87,3 @@ In this list we will cover a curated collection of active publishers, publicatio
 
 
 
-Blog Types
-What should I write about?
-What is the payment model?
-Submission Guidelines
-More Notes

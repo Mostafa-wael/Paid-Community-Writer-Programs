@@ -4,7 +4,7 @@
   - Docker tutorials: Do you make YAML files in Docker Compose that are works of art? Do you excel at keeping your Docker images clean? Does your Docker monitoring leave no container in the shadows? Give the community the benefit of your experience by writing a tutorial about Docker.
   - Security topics: Do you have fun configuring firewalls? Is WireGuard part of your standard toolbox? Have you got Suricata on speed dial? Help others secure their installations by submitting a tutorial about security.
   - Before you apply, explore the [Community](https://www.digitalocean.com/community) site to see the kinds of topics we publish and to get a feel for our style. 
-- **What is the payout structure?**
+- **What is the payment model?**
   - Authors typically receive **$300** per tutorial upon publication. The author then selects a single tech-focused charity or nonprofit or a group of nonprofits united by similar missions to receive a donation from DigitalOcean.
   - Most new tutorials are paid out at **$300**; complex production-focused topics may be paid out at up to $400. Updates for existing tutorials, such as distribution changes, are typically paid out at **$75** to **$150**, based on the number of changes and technical content. All payouts are at editorial discretion. 
 - **Submission Guidelines**

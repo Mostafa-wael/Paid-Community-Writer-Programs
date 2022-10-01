@@ -1,5 +1,5 @@
 # Civo
-- **Types of documentation?**
+- **Blog Types**
   - Tutorials: Walk-throughs and guides that demonstrate how to use a particular app or tool, or how to solve a certain problem.
   - How-to's: Step-by-step instructions on how to perform a certain task or deploy. Such as how to install a particular application or set up a load balancer.
   - Top-down guides: Overviews and high-level guides on broad topics or disciplines, such as a beginner's guide to machine learning or an analysis of the concept of chaos engineering

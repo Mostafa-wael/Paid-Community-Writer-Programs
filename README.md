@@ -10,16 +10,15 @@ In this list we will cover a curated collection of active publishers, publicatio
 - **Topics**: K8s, open source
 - **About**: We’re looking for developers with demonstrated experience in the topics we publish. You must have written before and are comfortable with receiving feedback on your writing.
 - [More Details](Programs/Ambassador/README.md)
-
 ### [Civo](https://www.civo.com/write-for-us?utm_source=referral&utm_medium=aggregator&utm_campaign=whopaystechnicalwriters.com)
 - **Payment** for first-time authors:: **$300 – $500**
 - **Topics**: Infrastructure, K8s.
-- **Note**: Should be related to the Civo tool.
+- **Notes**: Should be related to the Civo tool.
 - [More Details](Programs/Civo/README.md)
 ### [Cohesive](https://cohesiveso.notion.site/Cohesive-Writers-Program-114332379ec8444f8ca0ee774b805253)
 - **Payment** for first-time authors: **$200 – $500**
 - **Topics**: Infrastructure, K8s.
-- **Note**: Should be related to the Cohesive tool.
+- **Notes**: Should be related to the Cohesive tool.
 - [More Details](Programs/Cohesive/README.md)
 ### [DeepSource](https://deepsource.io/tech-writer/?utm_source=referral&utm_medium=aggregator&utm_campaign=whopaystechnicalwriters.com)
 - **Payment** for first-time authors: **$150** 
@@ -39,7 +38,7 @@ In this list we will cover a curated collection of active publishers, publicatio
 - **Payment** for first-time authors: **$350**
 - **Topics**: Open source, Infrastructure.
 - **About**: The “Write with Fauna” program aims to develop educational content for the client-serverless stack with a focus on driving material that dives deeper into this methodology, its ecosystem, the best practices, and tutorials, especially as they pertain to using Fauna. 
-- **Note**: Must use FaunaDB.
+- **Notes**: Must use FaunaDB.
 - [More Details](Programs/Fauna/README.md)
 ### [Hashnode](https://web3.hashnode.com/contribute-to-the-web3-blog?utm_source=referral&utm_medium=aggregator&utm_campaign=whopaystechnicalwriters.com#heading-payment-model)
 - **Payment** for first-time authors: **$150 - $350**
@@ -85,3 +84,11 @@ In this list we will cover a curated collection of active publishers, publicatio
 ### Resources:
 >> [Who Pays Technical Writers?](https://whopaystechnicalwriters.com/?)
 >> [CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms)
+
+
+
+Blog Types
+What should I write about?
+What is the payment model?
+Submission Guidelines
+More Notes

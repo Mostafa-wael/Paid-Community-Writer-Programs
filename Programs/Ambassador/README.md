@@ -1,5 +1,5 @@
 # Ambassador
-- **What should I write about?**
+- **Blog Types**
     - Tutorials, Opinion pieces, Ultimate Guides, and Case Studies
 - **Submission Guidelines**
   1. Apply: Submit this form to indicate interest in participating in our guest author program. We will review your application and contact you to discuss the next steps.

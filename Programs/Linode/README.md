@@ -1,5 +1,5 @@
 # Linode
-- **Types of documentation?**
+- **Blog Types**
   - Tutorials: An exploration of a technology's capabilities, but without a specific end-goal (example: Solving Real World Problems With Bash Scripts - A Tutorial).
   - How-to Guides: Guides that result in a ready-to-use installation of server software, similar to a recipe (example: How to Deploy Istio with Kubernetes).
   - Overviews: Conceptual overviews of a technology (example: A Beginner's Guide to Kubernetes).

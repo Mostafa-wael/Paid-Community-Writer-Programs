@@ -1,5 +1,5 @@
 # Adeva
-- **Blog Types?**
+- **Blog Types**
   - The blog is divided into two parts, an engineering blog, and a business blog. The engineering blog revolves around highly technical content. Blog posts in this section are in-depth tutorials and how-to guides on a range of tech concepts geared towards developers.
   - The business blog focuses on trending topics like remote work, the future of work, agile talent, startups, and the workplace. Blog posts in this section are geared towards business-oriented readers.
 - **What should I write about?**

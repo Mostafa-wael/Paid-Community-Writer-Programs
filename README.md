@@ -38,6 +38,11 @@ This indents to be a detailed list and encourages people to contribute to it and
 - **Topics**: Open source, Infrastructure.
 - **About**: The Write for DOnations program brings together two initiatives: building content to help developers and supporting tech-focused charities and nonprofits.
 - [More Details](Programs/Digital-Ocean/README.md)
+### [Educative](https://learn.educative.io/become-an-educative-author)
+- **Payment** based on the course evaluation.
+- **Topics**: Cybersecurity, cloud computing, cloud cert, APIs, front end, and back end, as well as others.
+- **About**: Text-based interactive courses for software developers.
+- [More Details](Programs/Educative/README.md)
 ### [Fauna](https://fauna.com/blog/write-with-fauna?utm_source=referral&utm_medium=aggregator&utm_campaign=whopaystechnicalwriters.com)
 - **Payment** for first-time authors: **$350**
 - **Topics**: Open source, Infrastructure.

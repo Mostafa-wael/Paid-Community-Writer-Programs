@@ -1,0 +1,20 @@
+   - **Submission Guidelines**
+    - So if you think that you are a good fit and you want to contribute to our Web3 blog, you can give us some information about you using this form, where you can also attach your first article.
+    - Once we review it, our editorial team will reach out.
+    - Please make sure you attach an article.
+    - Take me to the form
+    - Once your first article is approved, the submission process gets much simpler for your next article.
+    - You will now have access to the Hashnode Web3 blog, where you can submit articles to be reviewed directly without going through the form.
+    - All you have to do is to write the article in the Hashnode editor and submit it to the Hashnode Web3 blog.
+    - Here's how that works:
+      - When you are done writing your article, hit publish.
+      - Change the blog from your personal blog to the Hashnode Web3 blog.
+      - You can now hit publish, and an editor will be notified.
+      - That's it! Once submitted, you can expect to hear back from an editor within a few days with comments or the good news that the article has been published.
+    - **Payment model**
+      - We are now changing the payment model to a tired one. This will ensure faster payouts, clear expectations on payments, and better organization.
+        - 1000 - 1700 words ($250)
+        - 1700 - 2200 ($300)
+        - 2200 - 2700+ ($350)
+        - 3000+ words (Reach out if you have an idea for a large guide)
+      - We support payment via Stripe or direct wire transfer.

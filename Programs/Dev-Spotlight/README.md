@@ -1,0 +1,5 @@
+- **Submission Guidelines**
+    - Sign up and we'll email you available topics that match your interests, or you can suggest your own topic ideas.
+    - When you see a topic you like, submit a bid with your estimated cost and timeline.
+    - Write your article from home—or anywhere you'd like!
+    - We'll review your article, publish it, and pay you.

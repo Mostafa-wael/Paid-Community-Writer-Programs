@@ -1,0 +1,11 @@
+  - **Submission Guidelines**
+    - Apply to the program with your topic idea and outline.
+    - If accepted, collaborate with the Okteto team to refine your topic and outline for your post.
+    - Write the article, and submit the first draft to the Okteto team.
+    - Send a zip file containing all the images used in the draft to writers@okteto.com.
+    - The Okteto team will work with you to edit your draft.
+    - Once it's ready, we'll send you your payment and schedule your draft to be published.
+    - Please include the following in your proposal:
+      - Title of the post.
+      - Overview of the content (3-5 sentences is enough).
+      - Main takeaway of the content.
